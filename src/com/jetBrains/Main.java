@@ -22,7 +22,7 @@ public class RandomNumber {
             System.out.println(randomNum());
             System.out.println(randomNum2());
             rollCount += 1;
-            System.out.println("Roll again?");
+            System.out.println("Roll again? (y/n)");
             Loop = scnr.next();
         }
         if (Loop.equalsIgnoreCase("n")) {
