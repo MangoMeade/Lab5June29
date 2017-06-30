@@ -37,7 +37,7 @@ public class Main {
     }
 
     public static int randomNum2() {
-        int randNum = (int)(1 + Math.random() * 5);
+        int randNum = (int)(1 + Math.random() * 6);
         return randNum;
     }
 }
