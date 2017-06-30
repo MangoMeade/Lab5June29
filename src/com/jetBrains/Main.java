@@ -6,7 +6,7 @@ import java.util.Scanner;
 //This program asks the user how many sides a dice has
 //then it rolls an virtual dice
 //one method uses random() and the other method uses Math.random()
-public class Main {
+public class RandomNumber {
     public static void main(String[] args) {
 	// write your code here
         System.out.println("Welcome to the Grand Circus Casino! ");
